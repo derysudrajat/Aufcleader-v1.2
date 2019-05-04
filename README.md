@@ -1,2 +1,2 @@
 # Aufcleader-v1.2
-Aufcleader IoT Project get all file here
+Aufcleader is IoT Project about smart aquarium integrated with database and Android
